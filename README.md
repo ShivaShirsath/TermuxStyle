@@ -2,10 +2,10 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/adi1090x/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/adi1090x/termux-style?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/adi1090x/termux-style?color=violet&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/ShivaShirsath/termux-style?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/ShivaShirsath/termux-style?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/ShivaShirsath/termux-style?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/ShivaShirsath/termux-style?color=violet&style=for-the-badge">
 </p>
 <br />
 <br />
@@ -23,11 +23,12 @@ Follow the steps below -
 # go to home dir - 
 cd $HOME
 
-# clone this repository - 
-git clone https://github.com/adi1090x/termux-style
 
-# change to termux-style dir -
-cd termux-style
+# clone this repository - 
+git clone https://github.com/ShivaShirsath/TermuxStyle
+
+# change to TermuxStyle dir -
+cd TermuxStyle
 
 # to install it, run -
 ./install
