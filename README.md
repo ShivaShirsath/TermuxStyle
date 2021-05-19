@@ -30,6 +30,8 @@ git clone https://github.com/ShivaShirsath/TermuxStyle
 # change to TermuxStyle dir -
 cd TermuxStyle
 
+chmod +x *
+
 # to install it, run -
 ./install
 
