@@ -1,16 +1,5 @@
 # Termux Style
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/ShivaShirsath/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/ShivaShirsath/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/ShivaShirsath/termux-style?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/ShivaShirsath/termux-style?color=violet&style=for-the-badge">
-</p>
-<br />
-<br />
-<br />
-
 Simple script to change color-schemes and fonts for [Termux](https://termux.com) terminal emulator.
 
 > **`termux-style` provides color-schemes and powerline-ready fonts to customize the appearance of the Termux terminal.**
